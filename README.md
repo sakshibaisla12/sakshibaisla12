@@ -1,4 +1,4 @@
-![logo](https://github.com/sakshibaisla12/sakshibaisla12/blob/main/fuel_your_passion_4k_5k_hd_inspirational.jpg)
+![logo](https://github.com/sakshibaisla12/sakshibaisla12/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm sakshi baisla</h1>
 <h3 align="center">Hi, I'm Sakshi! I'm passionate about data science, frontend development, and software engineering. I love contributing to open source projects and collaborating with the community.</h3>
 
